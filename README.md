@@ -1,11 +1,11 @@
 ### Hi! 👋 My name is Eduardo Traunig
 
-I'm a **7th semester Computer Science student** at PUCRS - I'm a back-end and infrastructure developer. I'm most interested in development, games and AI. I work on random projects sometimes, a lot involving puzzle solving or simple games.
+I'm a **8th semester Computer Science student** at PUCRS - I'm a back-end and infrastructure developer. I'm most interested in development, games and AI. I work on random projects sometimes, a lot involving puzzle solving or simple games.
 
-- 📚 **7th semester Computer Science student** at PUCRS (2025/1)
+- 📚 **8th semester Computer Science student** at PUCRS (2025/2)
 - 🔍 **Scientific researcher** at [PET-Inf](https://petinfpucrs.github.io/)
 - 🎯 Interested in back-end development, infrastructure and games
-- 📫 Reach me via [email](mailto:e.enes@edu.pucrs.br)
+- 📫 Reach me via [email](mailto:etraunig@gmail.com)
 
 ##
 
