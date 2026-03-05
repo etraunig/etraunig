@@ -4,13 +4,12 @@ I'm a **Computer Science Graduate** from PUCRS - focused on back-end development
 
 - 🎓 **B.S. in Computer Science** from PUCRS
 - 🔍 Former **Scientific Researcher** at [PET-Inf](https://pet-inf.github.io/pet-site/)
-- 🚀 **Incoming MSc Student** at [MALTA Lab](https://portal.pucrs.br/pesquisa/estruturas-de-pesquisa/#labs-nucleos-grupos) - focus on AI
-- 📫 Reach me via [email](mailto:etraunig@gmail.com)
+- 🚀 **MSc Student** at [MALTA Lab](https://portal.pucrs.br/pesquisa/estruturas-de-pesquisa/#labs-nucleos-grupos) - PUCRS
+- 📫 Reach me via [email](mailto:e.enes@edu.pucrs.br)
 
 ##
 
 <div>
-
   [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,git,bash&theme=dark)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=linux,mysql,postgresql,mongodb,azure,docker,terraform,ansible&theme=dark)](https://skillicons.dev)
 </div>
