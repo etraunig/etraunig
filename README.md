@@ -4,7 +4,7 @@ I'm a **Computer Science Graduate** from PUCRS - focused on back-end development
 
 - 🎓 **B.S. in Computer Science** from PUCRS
 - 🔍 Former **Scientific Researcher** at [PET-Inf](https://pet-inf.github.io/pet-site/)
-- 🚀 **MSc Student** at [MALTA Lab](https://portal.pucrs.br/pesquisa/estruturas-de-pesquisa/#labs-nucleos-grupos) - focus on AI
+- 🚀 **MSc Student** at [MALTA Lab](https://portal.pucrs.br/pesquisa/estruturas-de-pesquisa/#labs-nucleos-grupos) - PUCRS
 - 📫 Reach me via [email](mailto:e.enes@edu.pucrs.br)
 
 ##
